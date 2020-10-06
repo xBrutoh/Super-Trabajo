@@ -178,8 +178,8 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        Repa_Listas ReLi = new Repa_Listas();
-        ReLi.setVisible(true);
+        Reporte Report = new Reporte();
+        Report.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jButton7ActionPerformed
 

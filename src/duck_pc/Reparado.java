@@ -60,7 +60,7 @@ public class Reparado extends javax.swing.JFrame {
         jLabel5.setText("Solución");
 
         jLabel6.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
-        jLabel6.setText("Fecha Retiro");
+        jLabel6.setText("Precio");
 
         jLabel7.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
         jLabel7.setText("X");
